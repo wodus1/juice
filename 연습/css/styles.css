@@ -1,0 +1,11 @@
+@import url("head-nav.css");
+@import url("main_screen.css");
+
+body{
+    background-color: white;
+    overflow: hidden;
+    width:1000px;
+    position:absolute;
+    left:50%;
+    transform: translate(-50%);
+}
