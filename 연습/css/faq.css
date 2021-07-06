@@ -1,0 +1,16 @@
+.main_command{
+    margin-top:80px;
+    width:880px;
+}
+.main_command_title{
+    font-size:25px;
+    color:rgba(198, 219, 75, 0.7);
+}
+.main_command_text h2{
+    font-size:22px;
+    margin-top:50px;
+    color:rgb(170, 189, 67);
+}
+.main_command_text h4{
+    opacity: 0.6;
+}
