@@ -18,20 +18,24 @@
     color:honeydew;
     letter-spacing: 6px;
 }
+.main_text>button>a{
+    text-decoration: none;
+    color:honeydew;
+}
 .main_text>button:hover{
     background-color: rgb(189, 189, 189);
 }
 .orange{
     position: absolute;
     top:581px;
-    left:310px;
-    width: 470px;
-    height:230px;
+    left:290px;
+    width: 570px;
+    height:280px;
 }
 .bottle{
     position: absolute;
-    top:160px;
-    left:200px;
-    width:135px;
-    height:480px;
+    top:200px;
+    left:170px;
+    width:190px;
+    height:570px;
 }

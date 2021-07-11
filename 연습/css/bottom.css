@@ -1,0 +1,34 @@
+.bottom{
+    display: block;
+    text-align: center;
+    background-color:black;
+    color:oldlace;
+    padding:15px 0px 6px 0px;
+    position:absolute;
+    top:930px;
+    width:1000px;
+    opacity: 0.8;
+}
+
+.bottom_title{
+    font-size:28px;
+    font-weight: 800;
+    opacity: 0.8;
+}
+.bottom_text{
+    display:flex;
+    justify-content: center;
+    opacity: 0.8;
+}
+.bottom_text p{
+    margin:9px 13px;
+}
+.bottom_text>p>span{
+    display: flexbox;
+    margin:0 5px;
+}
+.bottom_foot{
+    margin-top:18px;
+    font-size: smaller;
+    opacity: 0.8;
+}

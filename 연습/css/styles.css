@@ -1,10 +1,15 @@
 @import url("head-nav.css");
 @import url("main_screen.css");
 @import url("faq.css");
+@import url("introdution.css");
+@import url("bottom.css");
+@import url("shop.css");
+@import url("inquiry.css");
 body{
     background-color: white;
     width:1000px;
     position:absolute;
     left:50%;
     transform: translate(-50%);
+    margin-bottom: 0;
 }

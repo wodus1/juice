@@ -1,0 +1,78 @@
+.inquiry_title{
+    margin-top:60px;
+    font-size:50px;
+    font-weight: 50;
+    color:rgba(198, 219, 75, 0.7);
+}
+.inquiry_title>span{
+    font-size:40px;
+    color:rgba(198, 219, 75, 0.7);
+    font-weight: 800;
+}
+.main_form{
+    display:flex;
+    justify-content: center;
+    margin-top:50px;
+}
+
+.text input{
+    padding:11px 25px;
+    font-size: 20px;
+    opacity: 0.7;
+    font-weight: 0;
+    border:1px solid rgb(252, 161, 16);
+    margin:2px;
+}
+
+
+.contact{
+    position: relative;
+}
+.contact textarea{
+    font-size: 21px;
+    padding: 14px 25px;
+    height: 118px;
+    opacity: 0.8;
+    border:1px solid rgb(252, 161, 16);
+    margin:2px;
+}
+
+.contact button{
+    padding:5px 20px;
+    font-size: 18px;
+    opacity: 0.4;
+    background-color: black;
+    color:cornsilk;
+    position: absolute;
+    right:0;
+}
+
+.icons{
+    margin: 45px 0 68px 0;
+    font-size:30px;
+    opacity: 0.4;
+}
+
+input:hover{
+    border-color: rgb(252, 161, 16);
+    outline-color:rgb(252, 161, 16);
+    border:2px solid rgb(252, 161, 16);
+}
+
+textarea:hover{
+    border-color: rgb(252, 161, 16);
+    outline-color: rgb(252, 161, 16);
+    border:2px solid rgb(252, 161, 16);
+}
+
+input:focus{
+    border-color: rgb(252, 161, 16);
+    outline-color:rgb(252, 161, 16);
+    border:2px solid rgb(252, 161, 16);
+}
+
+textarea:focus{
+    border-color: rgb(252, 161, 16);
+    outline-color: rgb(252, 161, 16);
+    border:2px solid rgb(252, 161, 16);
+}

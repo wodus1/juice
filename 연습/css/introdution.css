@@ -1,0 +1,30 @@
+.title{
+    margin-top:80px;
+    font-size:50px;
+    color:rgba(198, 219, 75, 0.7);
+}
+.title>span{
+   font-weight: 800;
+   letter-spacing: 10px;
+}
+.text_1{
+    margin-top: 50px;
+    font-size: 17px;
+    opacity: 0.6;
+}
+.text_2{
+    margin-top:30px;
+    font-size: 17px;
+    opacity: 0.6;
+}
+.story{
+    width:580px;
+    position: relative;
+}
+img{
+    position:absolute;
+    right:1px;
+    top:250px;
+    width:425px;
+    height:590px;
+}
